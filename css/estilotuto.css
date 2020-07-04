@@ -54,3 +54,9 @@ p {
     position: relative;
     top: 80px;
 }
+
+.imagen {
+    display: block;
+    position: relative;
+    left: 800px;
+}
