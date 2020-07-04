@@ -45,6 +45,13 @@ nav ul li:hover {
     background: #3ead47;
 }
 
-.contenido {
+px .contenido {
     padding-top: 80px;
+}
+
+.imagen {
+    display: block;
+    top: 40px;
+    position: relative;
+    left: 100px;
 }
