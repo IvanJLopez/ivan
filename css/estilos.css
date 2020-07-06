@@ -50,8 +50,11 @@ px .contenido {
 }
 
 .imagen {
+    margin: 0px;
+    padding: 0px;
     display: block;
     top: 40px;
     position: relative;
     left: 100px;
+    background-size: 800px;
 }
